@@ -5,7 +5,7 @@ include("includes/functions.inc.php");
 include("includes/header.inc.php");
 access_denied();
 
-/*  pages created */	
+
 	
 if($_SERVER['REQUEST_METHOD'] == "POST")
 {

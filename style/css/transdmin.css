@@ -1,0 +1,473 @@
+/* -----------------------------------------------
+
+	* Screen Style Sheet
+
+	* Name: Transdmin Light
+	
+	* Coded by: Perspectived
+	  http://www.perspectived.com
+
+----------------------------------------------- */
+
+/* CSS reset by Eric Meyer */
+
+@import url("layout.css");
+button {
+	margin: 0px;
+	padding: 0px 0px;
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+	display: block;
+	float: left;
+	overflow: visible;
+}
+
+*:first-child+html button[type]{width: 1;} /* IE7 */
+
+button span {
+	background: transparent url(../img/btn_left.gif) no-repeat scroll right top;
+	display: block;
+	padding: 0px 10px 0px 0px; /* sliding doors padding */
+	margin: 0px;
+}
+#select-file {
+    padding: 10px 0;
+}
+.add-logo-form img {
+   
+    max-width: 200px;
+}
+button span span {
+	background: transparent url(../img/btn_right.gif) no-repeat left top;
+	color: #646464;
+	margin: 0;
+	padding: 0 0 0 10px;
+	font: 13px Arial, Helvetica, sans-serif;
+	line-height: 29px;
+	display: block;
+	text-decoration: none;
+}
+.delete-btn {
+    float: right;
+}
+/* -------------
+ * Inputs
+ * ------------- */
+.jNiceInputWrapper {
+	background: transparent url(../../elements/input_left.gif) no-repeat left top;
+	height: 23px;
+	padding: 0px;
+
+}
+.btn.btn-success {
+    float: right;
+    background: #34A853;
+    padding: 10px;
+    height: auto;
+    color: #fff;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    display: inline-block;
+}
+.jNiceInputInner {
+	background: transparent url(../../elements/input_right.gif) no-repeat right top;
+	padding: 2px 4px 2px 0px;
+	margin: 0px 0px 0px 4px;
+}
+
+.jNiceInputInner div {
+	height: 19px;
+}
+
+.jNiceInputInner input {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height: 18px;
+	vertical-align: middle;
+	height: 17px;
+	color:#404040;	
+	border: 0;
+	padding: 0px;
+	margin: 0px;
+}
+
+.jNiceSafari .jNiceInputInner div {
+	position: relative;
+	overflow: hidden;
+}
+
+.jNiceSafari input {
+	background-color: none;
+	position: absolute;
+	top: -2px;
+	left: -4px;
+	height: 26px; 
+}
+
+/* -------------
+ * Radios
+ * ------------- */
+.jRadioWrapper {float: left; width: 25px;}
+.jNiceRadio {
+	background: transparent url(../img/radio.gif) no-repeat center top;
+	vertical-align: middle;
+	height: 14px;
+	width: 15px;
+	display:block;/*display: -moz-inline-block;*/
+	margin: 0 10px 0 0;
+}
+
+
+/* -------------
+ * Checkboxes
+ * ------------- */
+.jNiceCheckbox {
+	background: transparent url(../img/checkbox.gif) no-repeat center top;
+	vertical-align: middle;
+	height: 13px;
+	float: left;
+	margin: 0 10px 0 0;
+	width: 14px;
+	display:block;/*display: -moz-inline-block;*/
+}
+
+/* -------------
+ * Checked - Used for both Radio and Checkbox
+ * ------------- */
+.jNiceChecked { background-position: center bottom;}
+
+
+/* -------------
+ * Selects
+ * ------------- */
+.jNiceSelectWrapper {
+	width: 280px;
+	position:relative;
+	height: 26px;
+	float: left;
+	border: none !important;
+}
+
+.jNiceSelectWrapper div span {
+	float: none;
+	position: absolute;
+	width: 400px;
+	height: 26px;
+	background: url(../img/select_left.gif) no-repeat left top;
+	background-size: 580px 26px;
+
+	line-height: 18px;
+	font: 12px/12px Arial, Helvetica, sans-serif;
+	color: #646464;
+	padding: 7px 7px 0;
+	overflow: hidden;
+	border: none !important;
+}
+
+.jNiceSelectWrapper div a {
+	display: block;
+	position: relative;
+	right: 0px;
+	width: 800px;
+	border: none;
+	height: 26px;
+	background: url(../img/select_right.gif) no-repeat center center;
+	
+}
+
+.jNiceSelectWrapper ul {
+	position: absolute;
+	width: 385px !important;
+	top: 26px;
+	left: 0px;
+	list-style: none;
+	background-color: #FFF;
+	display: none;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #eaeaea;
+	max-height: 99px;
+	overflow: auto;
+	overflow-y: auto;
+	z-index:100;
+}
+
+.jNiceSelectWrapper ul li { width: auto !important; }
+
+
+.jNiceSelectWrapper ul a {
+	display: block;
+	padding: 7px 7px;
+	text-decoration: none;
+	color: #9b9b9b;
+	font: 12px/12px Arial, Helvetica, sans-serif;
+	background-color: #FFF;
+}
+
+.jNiceSelectWrapper ul a:hover { background:#f6f6f6; }
+.jNiceSelectWrapper ul a.selected { background: #f0f7fa; color: #c66653; }
+
+/* -------------
+ * Hidden - used to hide the original form elements
+ * ------------- */
+.jNiceHidden {display: none;}
+
+table {
+    width: 100%;
+}
+select, input {
+    min-width: 153px;
+    padding: 6px;
+    margin: 0;
+}
+#mainNav2 li
+{
+list-style:none;
+}
+th, td {
+    border: 1px solid #dfdfdf;
+    padding: 10px;
+}
+.container.admin-header {
+    text-align: center;
+    padding: 33px 0 0px;
+}
+.add-logo-form p {
+    margin-bottom: 16px;
+}
+
+ 
+.success-msg
+{
+text-align: center;
+color: green;
+font-size:18px;
+
+}
+   .box
+   {
+    padding:20px;
+    background-color:#fff;
+    border:1px solid #ccc;
+    border-radius:5px;
+    margin-top:25px;
+   }
+  #page_list li {
+    padding: 16px;
+    background-color: #f9f9f9;
+    border: 1px dotted #ccc;
+    cursor: move;
+    margin-top: 12px;
+    text-align: left;
+    font-size: 18px;
+     display: inline-block;
+    width: 97%;
+}
+
+   #page_list li.ui-state-highlight
+   {
+    padding:24px;
+    background-color:#ffffcc;
+    border:1px dotted #ccc;
+    cursor:move;
+    margin-top:12px;
+   }
+   a.detete-btn {
+    float: right;
+}
+.bottom-hover-sec {
+    display: none;
+}
+
+.form-fields label {
+    margin: 7px 0;
+    display: inline-block;
+    font-weight: bold;
+}
+
+input[type="submit"] {
+    background: #F4591E;
+    color: #fff;
+    font-size: 17px;
+    border: none;
+    padding: 6px 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin: 10px 0;
+}
+#myModal input {
+    display: none;
+}
+#myModal label {
+    margin: 7px 11px;
+    display: inline-block;
+    font-weight: bold;
+    background: #dfdfdf;
+    padding: 7px;
+    text-align: center;
+    cursor: pointer;
+}
+  #myModal label.current h3  {
+    color:#ffffff;
+    
+} 
+ #myModal label.current
+    {
+    background: #F4591E;
+    }
+
+.form-fields label h3  {
+    padding: 0 0 0 0px;
+    margin: 10px 0 10px;
+}
+.form-fields label:hover h3 {
+   
+    color: #ffffff;
+    
+   
+}
+.add_pages .form-fields {
+    padding: 10px;
+}
+.add_pages .form-fields label {
+    margin: 7px 0;
+    font-size: 18px;
+}
+.add_pages input[type="text"], textarea{
+    width: 60%;
+    padding: 10px;
+    border: 1px solid #dfdfdf;
+}
+form.add_pages
+{
+background:#fff;
+}
+.add_pages input[type="submit"]
+{
+margin-top:35px;
+padding: 8px 20px;
+}
+div#myBtn {
+    background: #F4591E;
+    display: inline-block;
+    color: #fff;
+    text-transform: capitalize;
+    padding: 10px;
+    cursor: pointer;
+}
+/* The Modal (background) */
+#myModal.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 40px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 100%;
+    max-width: 900px;
+    max-height: 500px;
+    overflow: scroll;
+}
+
+/* The Close Button */
+#myModal .close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+#myModal .close:hover,
+#myModal .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+#myModal input[type="checkbox"]:checked + label {
+   
+    background: #F4591E;
+}
+#myModal input[type="checkbox"]:checked + label h3 {
+    color: #fff;
+   
+}
+
+.page-edit-form .form-fields {
+    padding: 10px;
+    background: #fff;
+    display: inline-block;
+    vertical-align: top;
+    width: 47%;
+    margin: 8px 0;
+}
+.page-edit-form .form-fields label {
+    margin: 7px 0;
+    font-size: 18px;
+}
+.page-edit-form input[type="text"], textarea{
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #dfdfdf;
+}
+form.page-edit-form
+{
+background:#fff;
+}
+.page-edit-form input[type="submit"]
+{
+margin-top:35px;
+padding: 8px 20px;
+}
+
+#login_form fieldset {
+    text-align: left;
+}
+.login_btn {
+    float: right;
+}
+.user_su_rstyle {
+    display: inline-block;
+    width: 98%;
+}
+.reset_btn {
+    color: #5494af;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 18px;
+    float: left;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+@media only screen and (max-width:480px)
+{
+#mainNav2 li a {
+    padding: 0 10px;
+}
+#page_list li {
+    padding: 5px;
+    font-size: 13px;
+}
+#page_list li {
+    padding: 10px;
+    font-size: 15px;
+  }
+
+}
+

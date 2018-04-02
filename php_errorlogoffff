@@ -1,0 +1,52 @@
+[02-Jan-2018 00:43:05 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/delete_pdf.php on line 11
+[02-Jan-2018 06:26:30 CST6CDT] PHP Parse error:  syntax error, unexpected 'pdf' (T_STRING), expecting ',' or ';' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 154
+[02-Jan-2018 06:32:06 CST6CDT] PHP Parse error:  syntax error, unexpected ''</li>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 153
+[02-Jan-2018 06:41:57 CST6CDT] PHP Parse error:  syntax error, unexpected 'hidden' (T_STRING), expecting ',' or ';' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 158
+[05-Jan-2018 01:39:38 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 78
+[05-Jan-2018 02:43:00 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 76
+[05-Jan-2018 04:45:34 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 102
+[05-Jan-2018 05:10:40 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 243
+[05-Jan-2018 05:33:26 CST6CDT] PHP Fatal error:  Cannot use [] for reading in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 46
+[05-Jan-2018 05:39:17 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 122
+[05-Jan-2018 06:30:17 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf-edit.php on line 187
+[05-Jan-2018 06:32:44 CST6CDT] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf-edit.php on line 23
+[05-Jan-2018 06:33:11 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf-edit.php on line 179
+[05-Jan-2018 07:42:09 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf-edit.php on line 41
+[08-Jan-2018 06:06:59 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf-edit.php on line 72
+[09-Jan-2018 05:22:03 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf-edit.php on line 23
+[09-Jan-2018 05:25:34 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf-edit.php on line 53
+[09-Jan-2018 07:11:35 CST6CDT] PHP Fatal error:  Call to undefined function getFileList() in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf_files.php on line 7
+[09-Jan-2018 07:20:09 CST6CDT] PHP Fatal error:  Call to undefined function scan_Dir() in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf_files.php on line 7
+[09-Jan-2018 07:25:00 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf_files.php on line 51
+[09-Jan-2018 07:25:05 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf_files.php on line 51
+[09-Jan-2018 07:25:12 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf_files.php on line 51
+[09-Jan-2018 07:25:39 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf_files.php on line 52
+[09-Jan-2018 07:25:42 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf_files.php on line 52
+[10-Jan-2018 04:57:36 CST6CDT] PHP Parse error:  syntax error, unexpected 'radio' (T_STRING), expecting ',' or ';' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf_files.php on line 24
+[10-Jan-2018 06:17:56 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf_files.php on line 24
+[11-Jan-2018 01:51:52 CST6CDT] PHP Parse error:  syntax error, unexpected '>' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf-edit.php on line 59
+[15-Jan-2018 04:27:29 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 35
+[15-Jan-2018 04:28:25 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 35
+[15-Jan-2018 04:28:54 CST6CDT] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE) in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 37
+[15-Jan-2018 04:59:56 CST6CDT] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE) in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 36
+[15-Jan-2018 05:00:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 42
+[16-Jan-2018 07:30:52 CST6CDT] PHP Parse error:  syntax error, unexpected '$imageFileType' (T_VARIABLE) in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/pdf.php on line 30
+[17-Jan-2018 05:12:18 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/main.php on line 20
+[17-Jan-2018 05:40:11 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/main.php on line 21
+[17-Jan-2018 05:40:49 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/main.php on line 21
+[17-Jan-2018 05:41:24 CST6CDT] PHP Parse error:  syntax error, unexpected '.' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/main.php on line 21
+[17-Jan-2018 05:51:26 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/starkedg/public_html/www.templatesgroup.com/dev/alien/admin/main.php on line 20
+[25-Jan-2018 08:25:44 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/behavi45/public_html/info.marketheed.com/admin/main.php on line 94
+[25-Jan-2018 08:25:48 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/behavi45/public_html/info.marketheed.com/admin/main.php on line 94
+[25-Jan-2018 08:25:54 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/behavi45/public_html/info.marketheed.com/admin/main.php on line 94
+[25-Jan-2018 08:26:35 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/behavi45/public_html/info.marketheed.com/admin/main.php on line 94
+[26-Jan-2018 00:12:02 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/behavi45/public_html/info.marketheed.com/admin/main.php on line 103
+[06-Feb-2018 07:14:26 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/behavi45/public_html/info.marketheed.com/admin/action.php on line 70
+[06-Feb-2018 07:16:53 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/behavi45/public_html/info.marketheed.com/admin/action.php on line 70
+[06-Feb-2018 07:17:16 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/behavi45/public_html/info.marketheed.com/admin/action.php on line 70
+[06-Feb-2018 07:17:52 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/behavi45/public_html/info.marketheed.com/admin/action.php on line 70
+[06-Feb-2018 07:46:04 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/behavi45/public_html/info.marketheed.com/admin/action.php on line 70
+[06-Feb-2018 07:53:26 CST6CDT] PHP Parse error:  syntax error, unexpected ''/'' (T_CONSTANT_ENCAPSED_STRING) in /home/behavi45/public_html/info.marketheed.com/admin/action.php on line 28
+[27-Feb-2018 00:57:26 CST6CDT] PHP Fatal error:  Call to undefined function connect_db() in /home/behavi45/public_html/info.marketheed.com/admin/page_update.php on line 5
+[27-Feb-2018 00:59:18 CST6CDT] PHP Fatal error:  Call to undefined function connect_db() in /home/behavi45/public_html/info.marketheed.com/admin/page_update.php on line 5
+[27-Feb-2018 01:00:08 CST6CDT] PHP Fatal error:  Call to undefined function connect_db() in /home/behavi45/public_html/info.marketheed.com/admin/page_update.php on line 5

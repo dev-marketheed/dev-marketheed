@@ -1,0 +1,4 @@
+[28-Mar-2018 08:06:54 CST6CDT] PHP Fatal error:  Can't use function return value in write context in /home/behavi45/public_html/dev.marketheed.com/admin/index.php on line 49
+[29-Mar-2018 02:15:00 CST6CDT] PHP Fatal error:  Call to undefined function access_denied() in /home/behavi45/public_html/dev.marketheed.com/admin/add-pages.php on line 6
+[29-Mar-2018 02:41:47 CST6CDT] PHP Parse error:  syntax error, unexpected '.' in /home/behavi45/public_html/dev.marketheed.com/admin/includes/functions.inc.php on line 401
+[29-Mar-2018 03:13:16 CST6CDT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/behavi45/public_html/dev.marketheed.com/admin/includes/functions.inc.php on line 406
